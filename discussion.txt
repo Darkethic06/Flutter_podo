@@ -1,0 +1,75 @@
+[
+    {
+        "Employee name" : "Samar"
+        "Employee Id" : "JX021"
+        "Employee Desg": "SDE"
+        "Employee Address":[
+                             {
+                        "M.B. Road",
+                        "Nimta",
+                        "Kolkata"
+                        "700049"
+
+                             }
+         ] 
+
+         {
+                        "M.B. Road",
+                        "Nimta",
+                        "Kolkata"
+                        "700049"
+
+                             }
+
+    }
+         "Employee name" : "Samar"   /// manipulation
+        "Employee Id" : "JX021"
+        "Employee Desg": "SDE"   /// data set
+        "Employee Address": {
+                        "M.B. Road",
+                        "Nimta",
+                        "Kolkata"
+                        "700049"
+
+                             }
+
+
+    }
+        "Employee name" : "Samar",
+        "Employee Id" : "JX021",
+        "Employee Desg": "SDE",
+        "Employee Address":"Nimta"
+    }
+
+
+
+
+class 10 A section - gr A . gr B , gr C , gr D , 46 stu
+
+
+
+
+address line 1
+address line2 
+city
+pin
+
+data[index]["Employee Address"]
+
+
+PODO - plain old dart object
+
+list {}
+array []
+
+[
+    {}
+    {}
+    {}
+]
+
+[ 0 , 1 , 2 ]
+
+
+[0 , 1 , ]
+
